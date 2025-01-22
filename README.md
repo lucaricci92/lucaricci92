@@ -1,14 +1,71 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 
-I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+<!-- I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 - 🔭 I’m currently working on Node JS 
 - 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on new business ideas.
+- 👯 I’m looking to collaborate on new business ideas. -->
 <!-- - 🤔 I’m looking for help with on new business ideas. -->
-- 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
+<!-- - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛. -->
 <!-- - 📫 How to reach me:DM 📱 email-dj.jarout@gmail.com. -->
+
+
+---
+
+<!-- ### 👋 Ciao! Sono lucaricci92 (JavaScript Full Stack Developer)
+
+Sono uno sviluppatore con esperienza nello sviluppo di applicazioni web e mobile. Ho conseguito il diploma in Sistemi Informativi Aziendali con indirizzo Programmazione, ottenendo il punteggio massimo di 100/100. Successivamente, ho seguito un corso intensivo Full-Stack in cui ho approfondito tecnologie come **Java**, **Spring Boot** e soprattutto **Angular**, che è il mio framework principale.
+
+Ho completato diverse certificazioni, tra cui:
+- **Scrum Foundation Professional**, 
+- **Team Leadership Training**, 
+- **JavaScript Algorithms and Data Structures**.
+
+Durante il mio percorso lavorativo, ho avuto l'opportunità di lavorare su diversi progetti, acquisendo competenze solide in linguaggi di programmazione e tecnologie come:
+- **JavaScript (ES6)**, **TypeScript**, **HTML**, **CSS**,
+- Frameworks come **Angular** (eccellente padronanza), **React**, **Next.js**, e **React Admin**.
+
+### 🖥️ **Esperienza Full Stack**
+Sul lato backend, conosco le basi di **Java**, **Spring Boot**, e **SQL**. Ho lavorato con database relazionali come **PostgreSQL** e **MySQL**, oltre a database NoSQL come **MongoDB**.
+
+### 📱 **Sviluppo Mobile**
+Per quanto riguarda lo sviluppo mobile, ho esperienza con **Flutter** e **Ionic**, che utilizzo per creare applicazioni ibride per dispositivi iOS e Android.
+
+### 🌟 **Chi sono oltre il lavoro?**
+Mi piace risolvere problemi complessi, esplorare nuove tecnologie e lavorare in team per trasformare idee innovative in realtà. Nel tempo libero adoro viaggiare, scattare fotografie, giocare ai videogiochi, ballare e scoprire nuove culture e tradizioni.
+
+### 🔭 **Cosa sto facendo ora?**
+- Attualmente sto lavorando su progetti basati su **Node.js**.
+- Sto imparando a utilizzare **Docker** per ottimizzare i processi di sviluppo.
+
+### 👯 **Collaborazioni e interessi**
+Mi piacerebbe collaborare su nuove idee imprenditoriali e progetti che abbiano un impatto positivo. Se vuoi parlare di tecnologia, viaggi, o semplicemente chiacchierare di cibo 🍝, sono qui!
+
+--- -->
+---
+
+Hi there 👋  
+I’m **lucaricci92** (Full-Stack Developer) with a strong background in web and mobile application development. I’m passionate about solving problems, exploring new technologies, and delivering high-quality software solutions.
+
+### **💻 Technical Skills**
+- **Primary Language**: Angular (JavaScript/TypeScript)  
+- **Front-End**: React (including Next.js), React Admin, HTML5, CSS3, SCSS, Tailwind, Bootstrap, Material Design, NG-ZORRO  
+- **Back-End**: Java (Spring Boot), Nodejs  
+- **Mobile Development**: Flutter, Ionic  
+- **Tools & Methodologies**: Git, GitLab, Jira, Agile (Scrum)  
+- **Databases**: PostgreSQL, MongoDB, MySQL  
+
+🎓 I graduated in Business Information Systems with a focus on Programming, scoring 100/100. I completed an intensive Full-Stack Development Bootcamp where I mastered **Java, Spring Boot, and Angular**.  
+
+📜 Certifications:  
+- **Scrum Foundation Professional**  
+- **JavaScript Algorithms and Data Structures**  
+
+🌱 Currently Learning: Docker
+🔭 Currently Working on: Node.js , Angular
+💬 Ask me about: tech solutions, software architecture, and exploring new cultures.  
+
 
 ## 🤝 Connect with me:
 
@@ -86,6 +143,7 @@ I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 ## 💼 **Technical Skills**
 
 ### **Linguaggi di programmazione e Framework**
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=D8113D)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)
@@ -96,6 +154,7 @@ I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 ![](https://img.shields.io/badge/Hybrid-Framework-Ionic-informational?style=flat&logo=Ionic&color=3880FF)
 ![Ionic Badge](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=flat)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ---
 
