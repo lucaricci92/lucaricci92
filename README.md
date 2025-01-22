@@ -10,9 +10,6 @@
 <!-- - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛. -->
 <!-- - 📫 How to reach me:DM 📱 email-dj.jarout@gmail.com. -->
 
-
----
-
 <!-- ### 👋 Ciao! Sono lucaricci92 (JavaScript Full Stack Developer)
 
 Sono uno sviluppatore con esperienza nello sviluppo di applicazioni web e mobile. Ho conseguito il diploma in Sistemi Informativi Aziendali con indirizzo Programmazione, ottenendo il punteggio massimo di 100/100. Successivamente, ho seguito un corso intensivo Full-Stack in cui ho approfondito tecnologie come **Java**, **Spring Boot** e soprattutto **Angular**, che è il mio framework principale.
@@ -43,7 +40,6 @@ Mi piace risolvere problemi complessi, esplorare nuove tecnologie e lavorare in 
 Mi piacerebbe collaborare su nuove idee imprenditoriali e progetti che abbiano un impatto positivo. Se vuoi parlare di tecnologia, viaggi, o semplicemente chiacchierare di cibo 🍝, sono qui!
 
 --- -->
----
 
 Hi there 👋  
 I’m **lucaricci92** (Full-Stack Developer) with a strong background in web and mobile application development. I’m passionate about solving problems, exploring new technologies, and delivering high-quality software solutions.
@@ -66,6 +62,7 @@ I’m **lucaricci92** (Full-Stack Developer) with a strong background in web and
 🔭 Currently Working on: Node.js , Angular
 💬 Ask me about: tech solutions, software architecture, and exploring new cultures.  
 
+---
 
 ## 🤝 Connect with me:
 
