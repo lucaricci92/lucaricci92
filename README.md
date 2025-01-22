@@ -62,8 +62,6 @@ I’m **lucaricci92** (Full-Stack Developer) with a strong background in web and
 🔭 Currently Working on: Node.js , Angular
 💬 Ask me about: tech solutions, software architecture, and exploring new cultures.  
 
----
-
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/luca-ricci-6042901b1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
