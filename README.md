@@ -8,17 +8,17 @@ I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 - 👯 I’m looking to collaborate on new business ideas.
 <!-- - 🤔 I’m looking for help with on new business ideas. -->
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
-- 📫 How to reach me:DM 📱 email-dj.jarout@gmail.com.
+<!-- - 📫 How to reach me:DM 📱 email-dj.jarout@gmail.com. -->
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/deepajarout/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/luca-ricci-6042901b1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
 
-<a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
+<!-- - <a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
 
 <a href="https://www.facebook.com/deepajarout0"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
 
-<a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
+ <a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
 
 <a href="https://twitter.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
 
@@ -28,13 +28,15 @@ I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 <a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
 
-<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
+<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a> -->
 </br>
 </br>
 
 
-## 💼 Technical Skills
-
+<!-- ## 💼 Technical Skills
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=D8113D)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
@@ -77,6 +79,64 @@ I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 ![](https://img.shields.io/badge/server-nginx-informational?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
+-->
+
+Ecco una versione generata dei tuoi banner per il portfolio basata sulle tue competenze. Puoi aggiungerli direttamente nel tuo file `README.md` o in una pagina web:
+
+---
+
+## 💼 **Technical Skills**
+
+### **Linguaggi di programmazione e Framework**
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&color=6DB33F)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&color=61DAFB)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&color=000000)
+![](https://img.shields.io/badge/Framework-ReactAdmin-informational?style=flat&logo=React&color=61DAFB)
+![](https://img.shields.io/badge/Hybrid-Framework-Flutter-informational?style=flat&logo=Flutter&color=02569B)
+![](https://img.shields.io/badge/Hybrid-Framework-Ionic-informational?style=flat&logo=Ionic&color=3880FF)
+
+---
+
+### **Database**
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=4479A1)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47A248)
+
+---
+
+### **Strumenti di collaborazione**
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&color=FC6D26)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&color=0052CC)
+
+---
+
+### **Metodologie**
+![](https://img.shields.io/badge/Agile-Scrum-informational?style=flat&logo=Agile&color=ffcc33)
+
+---
+
+### **Stili e Design**
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-MaterialDesign-informational?style=flat&logo=MaterialDesign&color=757575)
+![](https://img.shields.io/badge/Style-ng--zorro-informational?style=flat&logo=AntDesign&color=1890FF)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=06B6D4)
+![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=Sass&color=CC6699)
+
+---
+
+### **Strumenti di progettazione**
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Design-Miro-informational?style=flat&logo=Miro&color=FFD700)
+
+---
+
+Se vuoi personalizzare ulteriormente il layout o aggiungere nuove sezioni, fammi sapere! 😊
 
 
 ## 📝 Latest Blog Posts
