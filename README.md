@@ -91,14 +91,13 @@ Ecco una versione generata dei tuoi banner per il portfolio basata sulle tue com
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&color=6DB33F)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&color=61DAFB)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&color=000000)
 ![](https://img.shields.io/badge/Framework-ReactAdmin-informational?style=flat&logo=React&color=61DAFB)
-![](https://img.shields.io/badge/Hybrid-Framework-Flutter-informational?style=flat&logo=Flutter&color=02569B)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 ![](https://img.shields.io/badge/Hybrid-Framework-Ionic-informational?style=flat&logo=Ionic&color=3880FF)
+![Ionic Badge](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=flat)
 
 ---
 
@@ -106,6 +105,11 @@ Ecco una versione generata dei tuoi banner per il portfolio basata sulle tue com
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=4479A1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47A248)
+
+---
+### **ORM**
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 
 ---
 
@@ -127,6 +131,8 @@ Ecco una versione generata dei tuoi banner per il portfolio basata sulle tue com
 ![](https://img.shields.io/badge/Style-ng--zorro-informational?style=flat&logo=AntDesign&color=1890FF)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=06B6D4)
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=Sass&color=CC6699)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 ---
 
@@ -136,7 +142,7 @@ Ecco una versione generata dei tuoi banner per il portfolio basata sulle tue com
 
 ---
 
-Se vuoi personalizzare ulteriormente il layout o aggiungere nuove sezioni, fammi sapere! 😊
+
 
 
 ## 📝 Latest Blog Posts
