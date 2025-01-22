@@ -138,7 +138,7 @@ I’m **lucaricci92** (Full-Stack Developer) with a strong background in web and
 ## 💼 **Technical Skills**
 
 ### **Linguaggi di programmazione e Framework**
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=D8113D)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&color=D8113D)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)
@@ -169,6 +169,7 @@ I’m **lucaricci92** (Full-Stack Developer) with a strong background in web and
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&color=FC6D26)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&color=0052CC)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 ---
 
