@@ -81,8 +81,6 @@ I am **lucaricci92(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 ![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
 -->
 
-Ecco una versione generata dei tuoi banner per il portfolio basata sulle tue competenze. Puoi aggiungerli direttamente nel tuo file `README.md` o in una pagina web:
-
 ---
 
 ## 💼 **Technical Skills**
@@ -145,13 +143,13 @@ Ecco una versione generata dei tuoi banner per il portfolio basata sulle tue com
 
 
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts
 
 - [How to add a free SSL Certificate to your website?](https://medium.com/@deepajarout/how-to-add-a-free-ssl-certificate-to-your-website-736a41837a1)
 - [Data Types In Javascript](https://medium.com/@deepajarout/data-types-in-javascript-fd7cd14ad4a7)
 - [Variables In Javascript](https://medium.com/@deepajarout/variables-in-javascript-ef840522e80d)
 
-
+-->
 ## 📈 GitHub Stats 
 
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=lucaricci92)](https://github.com/lucaricci92)
